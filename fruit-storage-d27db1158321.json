@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fruit-storage",
+  "private_key_id": "d27db1158321bda26431738da37aa14ed145c3b8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC2ScTDvNbgoRHd\n7yRDOFzsqCeVwlLQeYxMse0Tqko58+QjCx9cHqYOS1ijPvgTIFV90XcGUTQtbAWV\nSAdaV9XU7jzr83diCjM7S+etaKUgs1m0BGddOltOxrG+cyR6fP981G4Bc0M5xZko\nLeouf1B9mwJ9faDF/uVrIaU1g6vu3Uf8Cx5B7FhQqtAgLZtkqPDcmB0++D5Ehoni\nB83YQyR2t38Rq5lL/Vad+f8/7Mwu+vstPVEk3S3t66sX6qAOyhyh11jwm/r+WWmK\nYubTlwh8dqFe5Piq/yHwkoefq1stQengUp7Hhm8UuLCZlo45/Ei3qqKP61mJGGdA\nQl4/cRe5AgMBAAECggEAEIKQbXkMTjaQb3UyJ9tyQSX+xdfel862eBjSY+pTxDl0\ng38FpVqKSDenTMvOfK78R0PCP8J5kxaaT9nA/rv/XESCpI091hWd68Q1dNWKRTKx\nUHZopT88l180KI91sZliK3xzBTMbFt+wfjzgXbs+v02blWGcPuqV/VTECZuGJkFh\nsrtH9c68WSuOn/yE3vcckbgy438k6AL2smzwurl0XO9L8a7Ob9yu1+vN3TxshEDP\ngAYFxDaJZcwHP9f5WQPENwNKB47UMXL1YuJQnqNRYedPk8ewKeWsjU/G1TsvEKbH\nTEpesq/gGXlmBD3EkKLOosWKm4tdOfYerN3X1kUPbQKBgQDsOwUHjd9IxxIamv6Y\nq39q7uk4XLErp1wCB42Y9ZtCVRWEx0VjFiLzuxqsS7Z8SEsYviaqgppPkvcrS+bk\nqJXnEAbFyZL+eJ4Q3tAj86O8Epm0BsfsAsd+HIFQqYd+qJeHj7GvPEXrwkT2D1JR\nwKvtpm7sWs95ZUrWE4HxwMC+vQKBgQDFixetRZnsJNHwSq80miHKd4go9u9Ms4ir\n087fNtsz1RKfsHZ803YEc65Di2iDeaTi+Cvj1XPTT4/Cgu86Gbit6FoWlRgoJUo6\nN62m1SC5Ayeoqz4098DYPay9mPiUd+gBjZ2rUq+ROgqadQ5+5Vs2X1IOuZnSFmWL\nyMovAqUarQKBgDWEPWRzuJTlPG24lVsC5y/ThhRVs3F/TbHMAkEXyx+g5OoattZ2\nyl5LEgTcdi/7tL+bPGk+gzTpx4MQg/NjWepp0A741os9yhlqUN8EMCDIWffV3W7T\nRlyEmqsqbN691O5KGGfpkLGTZkoUOIL60jhZjyGOhRgsYWLUMokRMNlFAoGAJ8Bp\nr1CGPOLb7ELbJvatPhT3rWajmQe3xPwGcRyU18VUzhWwgkX7RcIRmz3+dhaQe6v9\nCQf3GtqzzyyR/1sVsslC97BhABMg8L4rj5rrzs83t9Vd20LP57PhgvW5cAcBBO7+\nf29QLSVE5PgRRq/YvwRHevcWYRRossxhAzzBBLECgYA9NNRTMb/XdkUahwbUjnkm\n8AexMO4rtNKvbfBNYI5e8iM7Qt7GK7xdWRICzTPoDAvCAYB6R9ugeuHBYilKgAC4\nHlooXI6IcylncDrr96ghJPRv1WOK/5qVqQfKC0S9mTBgeOUm78FMupBHuqClhRJd\nBSW2xChq/4Cx1JQuq71T1A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "fruitstorage@fruit-storage.iam.gserviceaccount.com",
+  "client_id": "114943596827495689703",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fruitstorage%40fruit-storage.iam.gserviceaccount.com"
+}
